@@ -35,11 +35,17 @@ Welcome to the CyberArmory, a collection of cybersecurity tools developed in Pyt
 <br>
 
 ![Level-0 DFD](https://github.com/cs-vansh/CyberArmory/assets/104628209/99c06f83-8249-444d-9480-98283772588e)
+
+<br>
+
 *Level-0 DFD*
 
 <br>
 
 ![Level-1 DFD](https://github.com/cs-vansh/CyberArmory/assets/104628209/c4b88171-d27f-4523-be08-7a476813f227)
+
+<br>
+
 *Level-1 DFD*
 
 <br>
